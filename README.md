@@ -3,8 +3,7 @@
 Published paper:
 
     Jang, Y., Jeong, J., Kim, Y.K., Kim, D.H., Park, W., Kim, L., Kim, Y.H. and Lee, M., 2025. 
-    DualDyConvNet: Dual-Stream Dynamic Convolution Network 
-    via Parameter-Efficient Fine-Tuning for Predicting Motor Prognosis in Subacute Stroke. 
+    DualDyConvNet: Dual-Stream Dynamic Convolution Network via Parameter-Efficient Fine-Tuning for Predicting Motor Prognosis in Subacute Stroke. 
     IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 
 ---
